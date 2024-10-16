@@ -3,7 +3,7 @@ package request;
 public class Routes {
 
 
-    public final String LOGIN = "/auth/login";
+    public final String GET_ENTITIES = "/sim/entities/1";
 
 
 }
